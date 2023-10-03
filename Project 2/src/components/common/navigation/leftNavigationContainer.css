@@ -1,0 +1,22 @@
+.leftNav_container {
+	padding: 10px;
+}
+
+/* ANT design override */
+.ant-steps-item-title {
+	color: #bcbcbc !important;
+	font-weight: 800;
+}
+.ant-steps-item-description {
+	color: #a6a6a6 !important;
+}
+.ant-steps-item-icon {
+	background-color: transparent !important;
+}
+.ant-steps-item-wait .ant-steps-item-icon {
+	/* color: #bcbcbc !important; */
+	border-color: #bcbcbc !important;
+}
+.ant-steps-item-wait .ant-steps-icon {
+	color: #bcbcbc !important;
+}

@@ -1,0 +1,85 @@
+#containerAdminActivity{
+    width: 100%;
+    min-width: 500px;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+#boxAdminActivity{
+    width:700px ;
+    min-height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color:#dce7f5;
+    
+}
+#headingAdminActivity{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px;
+    color: black;
+}
+#titleAdminActivity{
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#titleAdminActivity>input{
+    width: 500px;
+    height: 40px;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 5px;
+    padding-left: 8px;
+    font-size: 16px;
+}
+#textAreatAdminActivity{
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#textAreatAdminActivity>textarea {
+    resize: none;
+    width: 500px;
+    height: 250px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid silver;
+    font-size: 16px;
+    padding-left: 8px;
+}
+#buttonAcminAcitvity{
+    display: flex;
+    width: 100%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#buttonAcminAcitvity>button{
+    outline: none;
+    border: none;
+    background-color: #0b4d8e;
+    padding: 8px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+#buttonAcminAcitvity>button:hover{
+    opacity: 0.7;
+}
+.ant-spin-dot-item {
+  background-color: #ffffff !important;
+}

@@ -1,0 +1,15 @@
+.text{
+    font-size: 20px;
+}
+.checkBox-text{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.submit-button{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.messageLine{
+    font-size: 16px;
+    color: #ff0000;
+}

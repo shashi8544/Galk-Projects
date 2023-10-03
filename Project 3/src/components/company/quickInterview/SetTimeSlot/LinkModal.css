@@ -1,0 +1,119 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 655px;
+height: 300px;
+left: 407px;
+top: 296px;
+align-items: center;
+}
+
+
+.card-info {
+  margin-top: 10px;
+  font-size: 26px;
+  margin-bottom: 5px;
+  /* color: rgb(5, 5, 70); */
+  /* font-weight: 900; */
+  text-align: center;
+  color: #052E58;
+}
+
+.card-info2 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  margin-bottom: 5px;
+  color: rgb(5, 5, 70);
+  font-weight: 70000;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+ .button-modal {
+  background-color: #052E58;
+  color: #fff !important;
+  text-align: center;
+  padding: 10px 20px;
+  border: none; 
+  /* border-radius: 5px; */
+   cursor: pointer;
+  color: #fff;
+  margin: 10px;
+  border-width: 500px;
+
+
+  /* position: absolute; */
+  /* width: 32px; */
+  /* height: 28px; */
+  left: 819px;
+  top: 560px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+
+  /* System Gray/000 */
+
+  color: #FFFFFF;
+}
+
+ .button-modal:hover {
+  background-color: #0369A1;
+} 
+.bcont{
+  margin-left: 230px;
+  margin-top: 30px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input-container{
+text-align: center;
+align-items: center;
+margin-top: 30px;
+margin-bottom: 15px;
+margin-right: 15px;
+}.link-input{
+margin-right: 15px;
+width: 472px;
+
+}.button-with-dot {
+position: relative;
+padding: 8px;
+}
+
+.dot {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+.blue-dot {
+  background-color: blue;
+}
+
+.orange-dot {
+  margin-right: 10px;
+  background-color: orange;
+}

@@ -1,0 +1,62 @@
+.heading{
+/* Quick interview */
+
+
+/* position: absolute; */
+/* width: 250px; */
+height: 42px;
+left: 262px;
+top: 95px;
+margin-left: 35px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+color: #424242;
+;
+
+}
+.button{
+    /* position: absolute; */
+left: 25.57%;
+right: 70.94%;
+top: 0%;
+bottom: 42.86%;
+/* background-color: #ffffff; */
+outline: none;
+border: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 550;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+margin-right: 48px;
+/* System Gray/800 */
+
+color: #424242;
+
+}
+
+.button.active::after {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: blue;
+    margin-top: 2px;
+    font-weight: 600;
+    margin-bottom: -1px;
+  }
+
+.subHeading {
+    position: relative;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-bottom: 1px solid rgb(208, 205, 205);
+  }
+  

@@ -1,0 +1,452 @@
+.shascomppage {
+	display: flex;
+	flex-direction: column;
+}
+.shascompimage {
+	width: 1112px;
+	height: 249px;
+}
+#shascompimage1 {
+	width: 100%;
+	height: 250px;
+}
+.shasinfoemp {
+	display: inline-block;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 16px;
+	background: #ffffff;
+	/* #3977F5 */
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border: 1px solid #3977f5;
+	border-radius: 4px;
+
+	color: #3977f5;
+	margin-left: 26px;
+	margin-right: 24px;
+}
+#expandpara {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 160%;
+	/* or 22px */
+
+	/* #3977F5 */
+
+	color: #3977f5;
+	margin-left: 50%;
+	/* margin-right: auto;
+align-items: center;
+justify-content: center; */
+}
+.parastrong {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	margin-left: 26px;
+	margin-right: 24px;
+	margin-bottom: 12px;
+	color: #212121;
+}
+#underpara {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 160%;
+	color: #212121;
+	margin-left: 26px;
+	margin-right: 24px;
+}
+.my-hr {
+	border: none;
+	border-top: 2px solid #ccc;
+	margin: 10px 0;
+}
+.shasfoll {
+	border: 2px solid black;
+	color: gray;
+	background-color: white;
+	margin: 23px;
+	border-radius: 12px;
+	padding-left: 22px;
+	padding-right: 24px;
+	padding-top: 8px;
+	padding-bottom: 10px;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 21px;
+	/* identical to box height */
+
+	color: #000000;
+}
+.pppp1 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 160%;
+	/* or 22px */
+
+	/* System Gray/900 */
+
+	color: #212121;
+}
+.shascomppage {
+	background: #ffffff;
+	border: 1px solid #e0e0e0;
+	border-radius: 4px;
+	width: 1112px;
+}
+#logoimageshas {
+	/* System Gray/000 */
+
+	width: 57px;
+	height: 57px;
+
+	background: #ffffff;
+	/* System Gray/300 */
+
+	border: 1.14px solid #e0e0e0;
+}
+#logoimageshas1 {
+	/* System Gray/000 */
+	height: 18px;
+	width: 13px;
+	background: #ffffff;
+}
+#logoparashas {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 42px;
+
+	/* System Gray/000 */
+
+	color: #ffffff;
+}
+#logoparashas1 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	float: inline-start;
+	margin-top: 23px;
+	margin-right: 60%;
+
+	/* System Gray/000 */
+
+	color: #ffffff;
+}
+.internshipJob_card_skill1 {
+	color: #ffffff;
+	background: #8b97a5;
+	padding: 5px 10px;
+	min-width: 70px;
+	border-radius: 4px;
+	text-align: center;
+}
+.internshipJob_card_skill1:hover {
+	color: #000;
+}
+
+.internshipJob_card_skillRoot {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+
+.internshipJob_card_skillRoot > * {
+	margin-right: 10px;
+}
+#logoparashas2 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	float: right;
+
+	/* System Gray/000 */
+
+	color: #ffffff;
+}
+.shashicomp {
+	display: flex;
+	flex-direction: row;
+	margin-left: 26px;
+	margin-right: 24px;
+	align-items: baseline;
+	color: #ffffff;
+	font-size: xx-large;
+	font-weight: bolder;
+	border-radius: 4px;
+}
+.nospace {
+	margin-bottom: 2px;
+}
+.movepara {
+	margin-left: 26px;
+	margin-right: 24px;
+	margin-bottom: -22px;
+	color: white;
+	font-size: x-large;
+}
+#shashicomp11 {
+	float: right;
+	margin: 23px;
+}
+.interncard {
+	display: flex;
+	flex-direction: column;
+	background: #f5f5f5;
+	border-radius: 4px;
+	margin-left: 26px;
+	margin-right: 24px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 24px;
+	padding-right: 161px;
+}
+#morepara {
+	width: 167px;
+	height: 16px;
+
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 16px;
+
+	/* System Gray/000 */
+
+	color: #ffffff;
+
+	/* Inside auto layout */
+
+	flex: none;
+	order: 0;
+	flex-grow: 0;
+}
+#spp1 {
+	font-family: "Roboto";
+
+	font-style: normal;
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 42px;
+
+	/* System Gray/900 */
+
+	color: #212121;
+}
+#sspp1 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 14px;
+	/* identical to box height */
+	/* #3977F5 */
+	width: 64px;
+	height: 28px;
+
+	background: #3977f5;
+	border-radius: 4px;
+	padding-left: 9px;
+	padding-right: 7.5px;
+	padding-top: 8px;
+	padding-bottom: 14px;
+	margin-right: 11px;
+	/* System Gray/000 */
+
+	color: #ffffff;
+	justify-content: center;
+	align-items: center;
+
+	/* Inside auto layout */
+}
+#sspp2 {
+	justify-content: center;
+	align-items: center;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	margin-bottom: -22px;
+
+	/* White:0% */
+
+	color: #052e58;
+}
+#sspp3 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 160%;
+	/* or 22px */
+	padding-right: 147px;
+
+	/* System Gray/900 */
+
+	color: #212121;
+}
+#ssppimg {
+	height: 25px;
+	width: 25px;
+	margin-right: 6px;
+}
+#sppcompname {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 19px;
+	line-height: 16px;
+
+	/* System Gray/600 */
+	margin-right: 11px;
+	color: #757575;
+}
+#ssadd {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	margin-right: 60%;
+	/* System Gray/600 */
+
+	color: #757575;
+}
+.box1 {
+	padding-left: 24px;
+	margin-right: 24px;
+	margin-bottom: 24px;
+	/* System Gray/300 */
+
+	border: 1px solid #e0e0e0;
+}
+.ssppjobcardtitle {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 21px;
+	/* identical to box height */
+
+	/* System Gray/900 */
+
+	color: #212121;
+	margin-bottom: 12px;
+}
+.moreinterncontainer {
+	display: flex;
+	flex-direction: column;
+	background: #ffffff;
+	/* System Gray/300 */
+
+	border: 1px solid #e0e0e0;
+	border-radius: 4px;
+	padding-left: 24px;
+	margin-right: 118px;
+	padding-top: 25px;
+	margin-bottom: 32px;
+}
+.moreintern {
+	background: #224fac;
+	border-radius: 4px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 23px;
+	padding-right: 41px;
+	width: 200px;
+	align-items: center;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.featureelement {
+	display: flex;
+	flex-direction: row;
+}
+.moreintern:hover {
+	background-color: yellowgreen;
+	color: red;
+}
+.shashitopic {
+	display: flex;
+	flex-direction: row;
+}
+.shashitopic1 {
+	display: flex;
+	flex-direction: row;
+}
+#ppp1 {
+	justify-content: center;
+	align-items: center;
+	padding: 4px 10px;
+	gap: 8px;
+	box-sizing: border-box;
+	background: #ffffff;
+	border: 1px solid #3977f5;
+	border-radius: 4px;
+	margin-right: 23px;
+	padding-left: 12px;
+	padding-right: 10px;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 14px;
+	color: #3977f5;
+}
+
+.forback {
+	display: flex;
+	flex-direction: row;
+}
+.forbackpara {
+	padding-right: 13px;
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	color: #616161;
+}
+#ppp2 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 160%;
+	color: #224fac;
+}
+.ppp3 {
+	border: 1px solid rgb(83, 199, 249);
+	background-color: rgb(133, 241, 241);
+	margin-right: 23px;
+	border-radius: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.ppp4 {
+	color: blue;
+	font-size: x-large;
+}

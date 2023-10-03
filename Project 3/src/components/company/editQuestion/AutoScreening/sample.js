@@ -1,0 +1,42 @@
+const abcdef = [
+    {
+        title:"1title",
+        type: "3",
+        label1:"1label1",
+        label2:"1label2",
+        placeholder1:"1placeholder1",
+        placeholder2:"1placeholder2",
+    },
+    {
+        title:"2title",
+        type: "3",
+        label1:"2label1",
+        label2:"2label2",
+        placeholder1:"2placeholder1",
+        placeholder2:"2placeholder2",
+    },
+    {
+        title:"3title",
+        type: "3",
+        label1:"3label1",
+        label2:"3label2",
+        placeholder1:"3placeholder1",
+        placeholder2:"3placeholder2",
+    },
+    {
+        title:"4title",
+        type: "3",
+        label1:"4label1",
+        label2:"4label2",
+        placeholder1:"4placeholder1",
+        placeholder2:"4placeholder2",
+    },
+    {
+        title:"5title",
+        type: "3",
+        label1:"5label1",
+        label2:"5label2",
+        placeholder1:"5placeholder1",
+        placeholder2:"5placeholder2",
+    },
+]

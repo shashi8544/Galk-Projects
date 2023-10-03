@@ -1,0 +1,47 @@
+.prog-meter-cover {
+	width: 100%;
+	/* background-color: red; */
+	height: 100%;
+	padding: 2rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-end;
+}
+.prog-meter-lable {
+	width: 80%;
+	/* background-color: green; */
+	padding: 0rem 0.5rem;
+	/* height: 30%; */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: 700;
+	font-size: 18px;
+	font-family: "Roboto", sans-serif;
+}
+.prog-meter-lable span {
+	margin: 0% 0.1rem;
+	color: white;
+}
+.left {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.right {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.meter {
+	width: 80%;
+	margin-top: 0.3rem;
+	background-color: rgba(66, 66, 66, 1);
+	height: 18%;
+	border-radius: 8px;
+}
+.meter div {
+	border-radius: 8px;
+	/* border: solid white; */
+}

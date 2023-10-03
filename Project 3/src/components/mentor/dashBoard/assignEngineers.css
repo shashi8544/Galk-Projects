@@ -1,0 +1,79 @@
+.mentor_assignEngineeors_loader {
+    border: 5px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 5px solid #3498db;
+    width: 27px;
+    height: 27px;
+    margin-left: 20px;
+    -webkit-animation: spin 0.5s linear infinite; /* Safari */
+    animation: spin 0.5s linear infinite;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  .mentor_assignEngineeors_assign_students{
+	width: 150px;
+	padding:0px 10px 0px 10px;
+	color:white;
+	height: 20px;
+	border-radius: 10px;
+	background-color:#3977f5;
+
+}
+.mentor_assignEngineeors_modalContainer{
+	max-height: 500px;
+	overflow-y: auto;
+	overflow-x: hidden;
+
+}
+.mentor_assignEngineeors_listContainer{
+	display:flex;
+	min-width: 500px;
+	
+}
+.mentor_assignEngineeors_avatar_container{
+	width: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.mentor_assignEngineeors_student_details{
+	width: calc(100% - 350px);
+	border-bottom: 1px solid silver;
+}
+.mentor_assignEngineeors_student_name{
+	font-size: 18px;
+	color: black;
+}
+.mentor_assignEngineeors_student_college{
+	font-size: 15px;
+	color: silver;
+}
+.mentor_assignEngineeors_student_control{
+	display: flex;
+	align-items: center;
+	flex-direction: row-reverse;
+	width: 200px;
+	border-bottom: 1px solid silver;
+}
+.mentor_assignEngineeors_student_control>button{
+	outline: none;
+	border: none;
+	background-color: #3977f5;
+	color: white;
+	width: 80px;height: 30px;
+	margin-right: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.mentor_assignEngineeors_student_control>button:hover{
+	opacity: 0.7;
+}

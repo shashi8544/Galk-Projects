@@ -1,0 +1,31 @@
+.mentor_index_container {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+.mentor_index_header{
+	width: 100%;
+	height: 50px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.mentor_index_content{
+	width: 100%;
+	height: calc(100% - 50px);
+	overflow-y: auto;
+}
+.mentor_companyList_companyCard{
+	width: 100%;
+	height: fit-content;
+	display: flex;
+	flex-direction: column;
+}
+.mentor_index_result_not_found{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 22px;
+}

@@ -1,0 +1,281 @@
+.btn{
+    position: absolute;
+    width: 78px;
+    height: 32px;
+    top: 170px;
+    background: white;
+    border-radius: 20px;
+    color:#052E58;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.btn1 {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 10px;
+    gap: 6px;
+    margin-left: 2px;
+    margin-right: 4px;
+
+
+    /* Gray/000 */
+
+    background: #FFFFFF;
+    /* Main/01 */
+
+    border: 1px solid #3977F5;
+    border-radius: 4px;
+    width: 61px;
+    height: 26px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* Main/01 */
+
+    color: #3977F5;
+
+
+}
+
+.btn2 {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 8px 23px; */
+    gap: 12px;
+
+    width: 61px;
+    height: 26px;
+
+    /* Main/01 */
+
+    background: #3977F5;
+    /* Main/01 */
+
+    border: 1px solid #3977F5;
+    border-radius: 3px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* Text/000 */
+
+    color: #FFFFFF;
+}
+
+.btn3{
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 8px 23px; */
+    gap: 12px;
+
+    width: 115px;
+    height: 32px;
+
+    /* Main/01 */
+
+    background: #3977F5;
+    ;
+    /* Main/01 */
+
+    border: 1px solid #3977F5;
+    border-radius: 3px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* Text/000 */
+
+    color: #FFFFFF;
+}
+
+.selected {
+    /* Define styling for the selected state */
+    background-color: #052E58;
+    color: white;
+}
+.not-selected{
+    background: white;
+}
+#notYet{
+    left: 260px;
+}
+#pass{
+    left: 350px;
+}
+
+#fail{
+    left: 440px;
+}
+
+
+.btnExport {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 23px;
+    gap: 12px;
+    position: fixed;
+    width: 150px;
+    height: 32px;
+    /* left: 1200px; */
+    top: 170px;
+    right: 30px;
+    background: #FAFAFA;
+    border: 1px solid #052E58;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #052E58;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
+#rectangleBox {
+    position: absolute;
+    width: 1146px;
+    height: 550px;
+    left: 262px;
+    top: 220px; 
+    overflow-y: auto;
+    padding-block-end: 20px;
+    background: #FFFFFF;
+}
+
+
+#profileImage{
+    width: 50px;
+    height: 50px;
+}
+
+.scrollContainer{
+    max-width: 95%;
+    overflow: auto;
+    background: #FFFFFF;
+    margin-top: 10px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+#details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.profilePic {
+    height: 50px;
+    width: 50px;
+    /* margin-right: -110px; */
+}
+
+#name {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;
+}
+
+#collegeName{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;
+}
+
+#major{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;
+}
+
+#skills{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5px;
+    margin-right: 50px;
+    width: 100px;
+}
+
+.header{
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 20px;
+    color: #BDBDBD;
+
+}
+
+/* .c {
+    position: relative;
+}
+.m {
+    position: relative;
+}
+.s{
+    pos
+} */
+
+.detail{
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #9E9E9E;
+}

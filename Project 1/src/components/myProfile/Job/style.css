@@ -1,0 +1,91 @@
+.job_card_navLink {
+	text-decoration: "none";
+}
+.job_card_navLink:hover {
+	text-decoration: "none";
+}
+.job_card_cardRoot {
+	cursor: pointer;
+	margin-bottom: 15px;
+	padding: 8px;
+}
+.job_card_cardRoot:hover {
+	border: 1px solid #bcbcbc;
+	transition-property: "border";
+	transition-duration: ".4s, .8s";
+}
+.job_card_title {
+	color: #0b4d8e;
+	letter-spacing: "0.32px";
+	font-size: 14px;
+	font-weight: 700;
+}
+.job_card_skill {
+	color: #777;
+	background-color: #ecf0f5;
+	padding: 2px 10px;
+	min-width: 70px;
+	border-radius: 4px;
+	text-align: center;
+}
+.job_card_skill:hover {
+	color: #000;
+}
+.job_card_skillRoot {
+	display: flex;
+	justify-content: start;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+.job_card_skillRoot > * {
+	margin-right: 10px;
+}
+.job_card_statusPendingApproval {
+	color: #fff;
+	background-color: #f0ad4e;
+	border-radius: 18px;
+	padding: 0px 10px;
+	text-align: center;
+	margin-left: 10px;
+}
+.job_card_statusApproved {
+	color: #fff;
+	background-color: #5cb85c;
+	border-radius: 18px;
+	padding: 0px 10px;
+	text-align: center;
+	margin-left: 10px;
+}
+.job_card_description {
+	color: #98a8b7;
+	white-space: pre-wrap;
+}
+.job_card_actionContainer > div {
+	text-align: center;
+}
+.job_card_actionContainer > div:last-child {
+	text-align: right;
+}
+.job_card_actionContainer > div:first-child {
+	text-align: left;
+}
+.job_card_createDate {
+	color: #98a8b7;
+}
+.job_card_applicationIcon {
+	font-size: 14px;
+	margin-right: 10px;
+	margin-bottom: 2px;
+}
+.job_card_actionLink {
+	cursor: pointer;
+}
+.job_card_actionLink:hover {
+	color: #075ff3;
+}
+.job_card_actionLink_danger {
+	cursor: pointer;
+}
+.job_card_actionLink_danger:hover {
+	color: #f32a07;
+}

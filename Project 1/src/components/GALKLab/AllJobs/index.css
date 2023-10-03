@@ -1,0 +1,110 @@
+.your-assignment-container {
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+    padding: 2rem 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: #fff;
+    border-radius: 0.125rem;
+    /* border: 1px solid #fff; */
+}
+
+.your-assignment-page-header {
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Design for Job Postings */
+.your-assignment-jobPosting {
+    margin: 10px 0px;
+    padding: 20px 20px;
+    background: #fff;
+    border-radius: 4px;
+}
+
+.your-assignment-jobPosting .your-assignment-jobSkills {
+    margin: 0px;
+    padding: 0px;
+}
+
+.your-assignment-jobPosting .your-assignment-jobSkills ul {
+    list-style: none;
+    margin: 10px 0px;
+    /* display: inline; */
+}
+
+.your-assignment-jobPosting .your-assignment-jobSkills ul li {
+    /* width: 132px;
+  height: 30px; */
+    padding: 0px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #b6dffe;
+    margin-right: 8px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #2c2f32;
+}
+
+.your-assignment-jobPosting .your-assignment-actionContainer .your-assignment-jobTitle {
+    /* width: 179px;
+  height: 27px; */
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.your-assignment-jobPosting .your-assignment-actionContainer .your-assignment-jobPlace {
+    font-size: 12px;
+    letter-spacing: 0.06px;
+    color: #b0b0b0;
+}
+
+/* .jobPosting .actionContainer .jobPlace::before{
+  content: 
+} */
+.your-assignment-jobPosting .your-assignment-actionContainer .your-assignment-jobLikeIcon {
+    font-size: 20px;
+}
+
+.your-assignment-jobPosting .your-assignment-actionContainer .your-assignment-jobLikeIconactive i {
+    font-size: 20px;
+    color: #17a2b8;
+}
+
+.your-assignment-jobPosting .your-assignment-jobDescription {
+    font-size: 14px;
+    color: #ffffff;
+    white-space: pre-wrap;
+}
+
+.your-assignment-jobPosting .your-assignment-JobPostedTime {
+    font-size: 12px;
+    letter-spacing: 0.06px;
+    color: #b0b0b0;
+}
+
+.your-assignment-loading {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.your-assignment-noresult {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+}

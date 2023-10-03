@@ -1,0 +1,29 @@
+.region {
+	background-color: transparent;
+	height: 93vh;
+	overflow-y: auto;
+	margin-top: 65px;
+}
+
+.region::-webkit-scrollbar {
+	width: 10px;
+	background-color: #fff;
+}
+
+/* Track */
+.region::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px #1073d5;
+	border-radius: 4px;
+}
+
+/* Handle */
+.region::-webkit-scrollbar-thumb {
+	background: #0b4d8e;
+	border: 0.5px solid #1073d5;
+	border-radius: 4px;
+}
+
+/* Handle on hover */
+.region::-webkit-scrollbar-thumb:hover {
+	background: #1073d5;
+}

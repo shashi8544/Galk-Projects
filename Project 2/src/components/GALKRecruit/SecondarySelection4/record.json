@@ -1,0 +1,29 @@
+[
+
+
+    {
+        "Industry": "Audio Systems Engineer, Pixel",
+        "attachmentURL": "https://www.google.com",
+        "skills": [
+            "Java",
+            "Python",
+            "C++"
+        ],
+        "optionalSkills": [
+            "C",
+            "C#"
+        ],
+        "shortDescription":"Development of AI matching platform between human resource database and client company profiles",
+        "createDate": "2019-01-01",
+        "location": "In-office: ST Building 5F, 2-1-30 Etchujima, Koto-ku, Tokyo",
+        "id": "1",
+        "description": "This is a software engineer job",
+        "jobId": "1234",
+        "icon":"https://www.w3schools.com/images/w3schools_green.jpg",
+        "industry":"Willings Inc.",
+        "liked":false
+
+    }
+
+
+]

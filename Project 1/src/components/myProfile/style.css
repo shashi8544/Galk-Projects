@@ -1,0 +1,16 @@
+.profileFillProgress_container {
+	/* border: 1px solid #bcbcbc; */
+	width: 60%;
+	margin: auto;
+	padding-top: 30px;
+}
+
+.profileFillProgress_container_header {
+	margin-bottom: 15px;
+	display: flex;
+}
+
+#ProgressBar{
+	margin-bottom: 20px;
+}
+

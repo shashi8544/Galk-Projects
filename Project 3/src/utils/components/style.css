@@ -1,0 +1,32 @@
+.editorToolbar {
+	background-color: #f3f3f3;
+}
+.editorWrapper {
+	border: 1px solid #f4f4f4;
+}
+.editorPlayArea {
+	padding: 10px;
+	/* min-height: 200px;
+	overflow-y: auto; */
+	height: auto;
+}
+.blockTypeFontSizeClassName {
+	height: 22px;
+}
+.blockTypeFontSizeClassName a {
+	color: #000;
+	font-size: 12px;
+}
+.blockTypeClassName {
+	width: 90px;
+	height: 22px;
+}
+.blockTypeClassName a {
+	color: #000;
+	font-size: 12px;
+}
+.blockTypeComponentClassName {
+}
+.blockTypeDropdownClassName {
+	font-size: 12px;
+}

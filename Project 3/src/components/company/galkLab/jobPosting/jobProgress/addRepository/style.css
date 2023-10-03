@@ -1,0 +1,78 @@
+.galkLab_repo_container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.galkLab_input_box {
+	position: relative;
+	width: 600px;
+	height: 400px;
+	background-color: #dce7f5;
+	border-radius: 7px;
+	display: flex;
+	flex-direction: column;
+
+	align-items: center;
+}
+.galkLab_input_box > input {
+	width: 300px;
+	height: 40px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: 1px solid silver;
+	outline: none;
+	padding-left: 5px;
+}
+.galkLab_input_box > button {
+	outline: none;
+	border: none;
+	width: 200px;
+	height: 40px;
+	background-color: #0b4d8e;
+	color: white;
+	border-radius: 5px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+button:hover {
+	opacity: 0.7;
+}
+.galkLab_spinner {
+	border: 5px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 5px solid #3498db;
+	width: 35px;
+	height: 35px;
+	-webkit-animation: spin 0.5s linear infinite; /* Safari */
+	animation: spin 0.5s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+	}
+}
+
+@keyframes spin {
+	0% {
+		transform: rotate(0deg);
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+.galkLab_repo_title {
+	font-size: 20px;
+	font-weight: 500;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}

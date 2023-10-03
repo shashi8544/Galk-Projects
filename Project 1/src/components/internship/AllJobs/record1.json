@@ -1,0 +1,92 @@
+[
+    {
+        "internshipDetails":
+            {
+                "title": "intern1",
+                "attachmentURL": "https://www.google.com",
+                "skills": [
+                    "Java",
+                    "Python",
+                    "C++"
+                ],
+                "optionalSkills": [
+                    "C",
+                    "C#"
+                ],
+                "createDate": "2019-01-01",
+                "location": "Bangalore",
+                "status": "1",
+                "description": "This is a software engineer job",
+                "jobId": "1234",
+                "icon":"https://www.w3schools.com/images/w3schools_green.jpg",
+                "industry":"ipsum",
+                "numberOfLikes":205,
+                "companyimage":"https://www.shutterstock.com/image-photo/nov-22-2019-palo-alto-260nw-1569353527.jpg",
+                "companyaddress":"https://goo.gl/maps/2T1TeWVzF2g5XP1S6",
+                "logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualhierarchy.co%2Fblog%2Famazon-logo-meaning%2F&psig=AOvVaw05reaKkOJ6wS-Qj8EqROnx&ust=1682791916488000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODJqsSWzf4CFQAAAAAdAAAAABAE"
+
+            },
+            "index": 0
+        
+    },
+    {
+        "internshipDetails":
+            {
+                "title": "intern2",
+                "attachmentURL": "https://www.google.com",
+                "skills": [
+                    "Java",
+                    "Python",
+                    "C++"
+                ],
+                "optionalSkills": [
+                    "C",
+                    "C#"
+                ],
+                "createDate": "2019-01-01",
+                "location": "Bangalore",
+                "status": "1",
+                "description": "This is a software engineer job",
+                "jobId": "1234",
+                "icon":"https://www.w3schools.com/images/w3schools_green.jpg",
+                "industry":"ipsum",
+                "numberOfLikes":205,
+                "companyimage":"https://www.shutterstock.com/image-photo/nov-22-2019-palo-alto-260nw-1569353527.jpg",
+                "companyaddress":"https://goo.gl/maps/2T1TeWVzF2g5XP1S6",
+                "logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualhierarchy.co%2Fblog%2Famazon-logo-meaning%2F&psig=AOvVaw05reaKkOJ6wS-Qj8EqROnx&ust=1682791916488000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODJqsSWzf4CFQAAAAAdAAAAABAE"
+
+            },
+            "index": 1
+        
+    },
+    {
+        "internshipDetails":
+            {
+                "title": "intern3",
+                "attachmentURL": "https://www.google.com",
+                "skills": [
+                    "Java",
+                    "Python",
+                    "C++"
+                ],
+                "optionalSkills": [
+                    "C",
+                    "C#"
+                ],
+                "createDate": "2019-01-01",
+                "location": "Bangalore",
+                "status": "1",
+                "description": "This is a software engineer job",
+                "jobId": "1234",
+                "icon":"https://www.w3schools.com/images/w3schools_green.jpg",
+                "industry":"ipsum",
+                "numberOfLikes":205,
+                "companyimage":"https://www.shutterstock.com/image-photo/nov-22-2019-palo-alto-260nw-1569353527.jpg",
+                "companyaddress":"https://goo.gl/maps/2T1TeWVzF2g5XP1S6",
+                "logo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualhierarchy.co%2Fblog%2Famazon-logo-meaning%2F&psig=AOvVaw05reaKkOJ6wS-Qj8EqROnx&ust=1682791916488000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODJqsSWzf4CFQAAAAAdAAAAABAE"
+
+            },
+            "index": 2
+        
+    }
+]

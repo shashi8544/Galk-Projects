@@ -1,0 +1,30 @@
+[
+    {
+        "companyDetails":
+            {
+                "title": "Amazon",
+                "attachmentURL": "https://www.google.com",
+                "skills": [
+                    "Java",
+                    "Python",
+                    "C++"
+                ],
+                "optionalSkills": [
+                    "C",
+                    "C#"
+                ],
+                "createDate": "2019-01-01",
+                "location": "Bangalore",
+                "status": "5",
+                "description": "CaPay is a super application that includes 68 high qualityscreens to help you launch digital wallet application projects and speed up your design process. Designed on 2 leading platforms Sketch & Figma makes it easy to customize to create impressive projects weee I am longer show more please CaPay is a super application that includes 68 high qualityscreens to help you launch digital wallet application projects and speed up your design process. Designed on 2 leading platforms Sketch & Figma makes it easy to customize to create impressive projects weee I am longer show more please",
+                "jobId": "1234",
+                "icon":"https://www.w3schools.com/images/w3schools_green.jpg",
+                "industry":"IT",
+                "numberOfLikes":20
+            },
+            "index": 0
+            
+        
+        
+    }
+]
